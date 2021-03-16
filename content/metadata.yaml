@@ -1,16 +1,16 @@
-title: Link free
-shortTitle: Link free
-siteUrl: https://themes.marscollective.co/link-free
-description: ''
-lang: en
+title: Element Gaming
+shortTitle: Element Gaming
+siteUrl: https://links.emt.gg
+description: 'Element Gaming social links'
+lang: it
 logo: logo.png
 favicon: favicon.png
-rounded: '16'
+rounded: '10'
 colors:
   DEFAULT: '#FAFAFA'
-  highlight: '#00d1b7'
+  highlight: '#cc3236'
   accent: '#262626'
-  background: '#262626'
+  background: '#1a1a1a'
 tracking:
   which: none
   id: ''
